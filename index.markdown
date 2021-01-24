@@ -65,3 +65,4 @@ A UICollectionView layout subclass for displaying items in a Pinterest style gri
 
 Technologies used:
 * Objective-C
+* UIKit
